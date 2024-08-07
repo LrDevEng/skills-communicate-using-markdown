@@ -11,3 +11,5 @@
 ###### Header 6
 
 Checking out the different header sizes.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
